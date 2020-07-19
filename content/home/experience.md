@@ -46,9 +46,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Lawrence Livermore National Laboratory"
+  company = "Idaho National Laboratory"
   company_url = ""
-  location = "California"
+  location = "Idaho"
   date_start = "2018-05-01"
   date_end = "2018-08-01"
   description = """"""
