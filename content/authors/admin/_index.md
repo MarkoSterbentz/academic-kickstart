@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Northwestern University
-    year: 2020 - present
+    year: 2019 - present
   - course: MS in Computer Science
     institution: University of Southern California
     year: 2019
