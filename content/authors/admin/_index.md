@@ -17,7 +17,7 @@ organizations:
 - name: Northwestern University
   url: "https://www.mccormick.northwestern.edu/computer-science/"
 - name: C3 Lab
-  url: https://sites.northwestern.edu/c3lab/
+  url: https://c3lab.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computer science PhD student at Northwestern University.
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a computer science PhD student at Northwestern University in the [C3 Lab](https://sites.northwestern.edu/c3lab/) advised by [Kristian Hammond](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html). My current research centers around using information extraction techniques to automatically build knowledge graphs and answer open-ended questions.
+I am a computer science PhD student at Northwestern University in the [C3 Lab](https://c3lab.northwestern.edu/) advised by [Kristian Hammond](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html). My current research centers around using information extraction techniques to automatically build knowledge graphs and answer open-ended questions.
