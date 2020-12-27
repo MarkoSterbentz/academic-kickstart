@@ -26,6 +26,7 @@ interests:
 - Artificial Intelligence
 - Natural Language Processing
 - Commonsense Reasoning
+- Information Extraction
 
 education:
   courses:
