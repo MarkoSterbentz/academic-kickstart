@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:markosterbentz@u.northwestern.edu
+  link: mailto:marko.sterbentz@u.northwestern.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/MarkoSterbentz
