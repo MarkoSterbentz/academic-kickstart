@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Artificial Intelligence PhD Student
+role: Artificial Intelligence PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -20,12 +20,11 @@ organizations:
   url: https://c3lab.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer science PhD student at Northwestern University.
+bio: Computer science PhD candidate at Northwestern University.
 
 interests:
 - Artificial Intelligence
 - Natural Language Processing
-- Commonsense Reasoning
 - Information Extraction
 
 education:
@@ -57,9 +56,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=tVjMKxMAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  
@@ -74,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a computer science PhD student at Northwestern University in the [C3 Lab](https://c3lab.northwestern.edu/) advised by [Kristian Hammond](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html). My current research centers around using information extraction techniques to automatically build knowledge graphs and answer open-ended questions.
+I am a computer science PhD candidate at Northwestern University in the [C3 Lab](https://c3lab.northwestern.edu/) advised by [Kristian Hammond](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html). My current research centers around using natural language understanding to answer open-ended questions using knowledge from heterogenous data stores (i.e. text documents, relational databases, and knowledge graphs).
