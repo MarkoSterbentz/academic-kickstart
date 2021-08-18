@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a computer science PhD candidate at Northwestern University in the [C3 Lab](https://c3lab.northwestern.edu/) advised by [Kristian Hammond](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html). My current research centers around using natural language understanding to answer open-ended questions using knowledge from heterogenous data stores (i.e. text documents, relational databases, and knowledge graphs).
+I am a computer science PhD candidate at Northwestern University in the [C3 Lab](https://c3lab.northwestern.edu/) advised by [Kristian Hammond](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html). My current research centers around using natural language understanding techniques to answer open-ended questions using knowledge from heterogenous data stores (i.e. text documents, relational databases, and knowledge graphs).
