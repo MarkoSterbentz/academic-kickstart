@@ -33,5 +33,11 @@ weight = 110
   
 +++
 ## Teaching Assistant
-- NU - CS 338: Practicum in Intelligent Information Systems (Fall 2020, Winter 2022, Spring 2022, Fall 2022)
-- USC - CSCI 576: Multimedia Systems Design (Fall 2018, Spring 2019)
+- NU - CS 338: Practicum in Intelligent Information Systems
+  - Fall 2022
+  - Spring 2022
+  - Winter 2022
+  - Fall 2020
+- USC - CSCI 576: Multimedia Systems Design
+  - Spring 2019
+  - Fall 2018
