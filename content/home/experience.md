@@ -36,15 +36,6 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Teaching Assistant"
-  company = "University of Southern California"
-  company_url = ""
-  location = "California"
-  date_start = "2018-08-01"
-  date_end = "2019-05-01"
-  description = """"""
-
-[[experience]]
   title = "Research Intern"
   company = "Idaho National Laboratory"
   company_url = ""

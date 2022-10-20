@@ -24,8 +24,8 @@ bio: Computer science PhD candidate at Northwestern University.
 
 interests:
 - Artificial Intelligence
-- Natural Language Processing
-- Information Extraction
+- Semantic Parsing
+- Question Answering
 
 education:
   courses:
