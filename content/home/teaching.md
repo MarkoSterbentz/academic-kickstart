@@ -32,5 +32,6 @@ weight = 110
   #text_color_light = true
   
 +++
-* Practicum in Intelligent Information Systems (Northwestern CS 338)
-* Multimedia Systems Design (USC CSCI 576)
+## Teaching Assistant
+- NU - CS 338: Practicum in Intelligent Information Systems (Fall 2020, Winter 2022, Spring 2022, Fall 2022)
+- USC - CSCI 576: Multimedia Systems Design (Fall 2018, Spring 2019)
