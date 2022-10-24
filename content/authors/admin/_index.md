@@ -26,6 +26,7 @@ interests:
 - Artificial Intelligence
 - Semantic Parsing
 - Question Answering
+- Information Retrieval
 
 education:
   courses:
